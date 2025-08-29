@@ -187,4 +187,4 @@ Final Ranking for Undergraduate Use:
 
 
 ### Result : 
-The Prompt for the above problem statement executed successfully.
+The Prompts for the above problem statements has been executed successfully.
